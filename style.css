@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+}
+
+.main-container {
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.header-div {
+  width: 100%;
+  height: 40%;
+  background-image: url("./images/bg-hero-desktop.svg");
+  object-fit: contain;
+}
+
+.header-overlay {
+  height: 100%;
+  width: 100%;
+  background-color: rgba(75, 173, 235, 0.2);
+}
+
+.nav-bar {
+  font-family: "Poppins", sans-serif;
+  padding: 20px 50px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-bar p {
+  font-size: 12px;
+  padding: 10px 40px;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.header-mockups {
+  display: flex;
+  align-items: center;
+  padding: 30px 80px 30px 60px;
+  margin-bottom: 30px;
+}
+
+.header-mockups-img {
+  padding: 0px;
+  width: 100%;
+}
+
+.header-mockups-article {
+  width: 100%;
+  margin-top: 10px;
+  padding: 20px 40px;
+
+  /* background-color: rgb(107, 224, 98); */
+}
+
+.header-mockups-article h1 {
+  padding-right: 90px;
+  width: 100%;
+  line-height: 1.4;
+  font-family: "Poppins", sans-serif;
+  font-size: 35px;
+  margin-bottom: 30px;
+}
+
+.header-mockups-article p {
+  width: 100%;
+  line-height: 1.2;
+  font-family: "Open Sans", sans-serif;
+  padding-right: 32px;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.button {
+  background-color: hsl(322, 100%, 66%);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  padding: 20px 50px;
+  margin: 20px auto;
+  width: 250px;
+}
+
+/* second div*/
+
+.main-class {
+  /* background-color: rgb(197, 197, 249); */
+  display: flex;
+  flex-direction: column;
+}
+
+.grow-div {
+  /* background-color: blue; */
+  border: 3px solid rgba(128, 141, 153, 0.05);
+  border-radius: 30px;
+  display: flex;
+  height: 100%;
+  align-items: center;
+  padding: 80px 90px;
+  margin: 20px 60px;
+}
+
+.grow-article {
+  height: 100%;
+  width: 100%;
+  padding: 0px 50px;
+}
+
+.grow-article h1 {
+  padding-right: 20px;
+  width: 100%;
+  line-height: 1.4;
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.grow-article p {
+  color: hsl(208, 11%, 55%);
+  width: 100%;
+  line-height: 1.2;
+  font-family: "Open Sans", sans-serif;
+  padding-right: 32px;
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 20px;
+}
+
+.grow-img {
+  height: 100%;
+  width: 100%;
+  padding: 0px 30px;
+}
