@@ -370,7 +370,7 @@ ion-icon {
   .grow-div {
     background-color: rgb(255, 255, 255);
     border: 3px solid rgba(128, 141, 153, 0.05);
-    border-radius: 20px;
+    border-radius: 15px;
     display: flex;
     flex-direction: column;
     height: 100%;
