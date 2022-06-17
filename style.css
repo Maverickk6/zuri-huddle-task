@@ -864,7 +864,7 @@ ion-icon {
 
 
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 850px) {
   .header-mockups {
     display: flex;
     flex-direction: column;
