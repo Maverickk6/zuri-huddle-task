@@ -298,7 +298,8 @@ ion-icon {
 }
 
 .icon-p {
-  font-size: 10px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 11px;
 }
 
 @media only screen and (max-width: 375px) {
@@ -470,63 +471,63 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   .first-footer-img {
     padding-left: 10px;
     filter: brightness(0) invert(1);
     margin-bottom: 20px;
   }
-  
+
   .first-footer-p1 {
     display: flex;
     padding: 10px;
     align-items: flex-start;
   }
-  
+
   .first-footer-p1 p {
     margin-left: 15px;
     display: flex;
     justify-content: space-between;
   }
-  
+
   .first-footer-p1 img {
     padding-top: 3px;
   }
-  
+
   .first-footer-p2 {
     display: flex;
     padding: 10px;
     align-items: flex-start;
   }
-  
+
   .first-footer-p2 p {
     margin-left: 10px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
   }
-  
+
   .first-footer-p2 img {
     margin-top: 5px;
   }
-  
+
   .first-footer-p3 {
     display: flex;
     padding: 10px;
-  
+
     align-items: flex-start;
   }
-  
+
   .first-footer-p3 p {
     margin-left: 10px;
     display: flex;
     justify-content: space-between;
   }
-  
+
   .first-footer-p3 img {
     margin-top: 5px;
   }
-  
+
   .second-footer-div {
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -538,7 +539,7 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   .third-footer-div {
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -551,7 +552,7 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   .fourth-footer-div {
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -563,21 +564,22 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   ion-icon {
     font-size: 30px;
   }
-  
+
   .icon-div {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px 40px 10px 40px;
   }
-  
+
   .icon-p {
     text-align: center;
-    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 11px;
   }
 }
 
@@ -750,63 +752,63 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   .first-footer-img {
     padding-left: 10px;
     filter: brightness(0) invert(1);
     margin-bottom: 20px;
   }
-  
+
   .first-footer-p1 {
     display: flex;
     padding: 10px;
     align-items: flex-start;
   }
-  
+
   .first-footer-p1 p {
     margin-left: 15px;
     display: flex;
     justify-content: space-between;
   }
-  
+
   .first-footer-p1 img {
     padding-top: 3px;
   }
-  
+
   .first-footer-p2 {
     display: flex;
     padding: 10px;
     align-items: flex-start;
   }
-  
+
   .first-footer-p2 p {
     margin-left: 10px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
   }
-  
+
   .first-footer-p2 img {
     margin-top: 5px;
   }
-  
+
   .first-footer-p3 {
     display: flex;
     padding: 10px;
-  
+
     align-items: flex-start;
   }
-  
+
   .first-footer-p3 p {
     margin-left: 10px;
     display: flex;
     justify-content: space-between;
   }
-  
+
   .first-footer-p3 img {
     margin-top: 5px;
   }
-  
+
   .second-footer-div {
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -818,7 +820,7 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   .third-footer-div {
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -831,7 +833,7 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   .fourth-footer-div {
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -843,26 +845,24 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   ion-icon {
     font-size: 30px;
   }
-  
+
   .icon-div {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px 40px 10px 40px;
   }
-  
+
   .icon-p {
     text-align: center;
-    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 11px;
   }
 }
-
-
-
 
 @media only screen and (max-width: 850px) {
   .header-mockups {
@@ -1033,63 +1033,63 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   .first-footer-img {
     padding-left: 10px;
     filter: brightness(0) invert(1);
     margin-bottom: 20px;
   }
-  
+
   .first-footer-p1 {
     display: flex;
     padding: 10px;
     align-items: flex-start;
   }
-  
+
   .first-footer-p1 p {
     margin-left: 15px;
     display: flex;
     justify-content: space-between;
   }
-  
+
   .first-footer-p1 img {
     padding-top: 3px;
   }
-  
+
   .first-footer-p2 {
     display: flex;
     padding: 10px;
     align-items: flex-start;
   }
-  
+
   .first-footer-p2 p {
     margin-left: 10px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
   }
-  
+
   .first-footer-p2 img {
     margin-top: 5px;
   }
-  
+
   .first-footer-p3 {
     display: flex;
     padding: 10px;
-  
+
     align-items: flex-start;
   }
-  
+
   .first-footer-p3 p {
     margin-left: 10px;
     display: flex;
     justify-content: space-between;
   }
-  
+
   .first-footer-p3 img {
     margin-top: 5px;
   }
-  
+
   .second-footer-div {
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -1101,7 +1101,7 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   .third-footer-div {
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -1114,7 +1114,7 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   .fourth-footer-div {
     font-family: "Open Sans", sans-serif;
     font-size: 14px;
@@ -1126,20 +1126,21 @@ ion-icon {
     width: 100%;
     justify-content: space-around;
   }
-  
+
   ion-icon {
     font-size: 30px;
   }
-  
+
   .icon-div {
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 10px 40px 10px 40px;
   }
-  
+
   .icon-p {
     text-align: center;
-    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 11px;
   }
 }
